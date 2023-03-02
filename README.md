@@ -36,5 +36,5 @@ The app also provides an admin interface for managing appointments. Admins can v
 
 ## Credits
 
-This app was created by [Your Name](https://github.com/your-username).
+This app was created by [Soumendu Pal](https://github.com/pydev369).
 
