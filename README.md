@@ -12,7 +12,7 @@ The app is deployed on AWS Lambda using the Serverless framework. It is designed
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/flask-appointment-booking-app.git`
+1. Clone the repository: `git clone https://github.com/pydev369/flask-appointment-booking-app.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set environment variables:
     - `DATABASE_URI`: URI for the PostgreSQL database
